@@ -1,0 +1,81 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    /* font-family: 'Times New Roman', Times, serif; */
+    /* font-weight: 1000; */
+    /* background-image: url("/Images/hgcxdx.jpg"); */
+    /* background-image: url("/Images/pawel-czerwinski-HbcfaO4m03s-unsplash.jpg"); */
+    /* background-image: url("/Images/gradienta-bKESVqfxass-unsplash\ \(1\).jpg"); */
+    /* background-size: 100%; */
+    /* background-color: #F4D9E7; */
+    /* color:black; */
+}
+.intro{
+    
+    background-color: #CDF0EA;
+    margin: 0%;
+    padding: 2%;
+    /* color: white; */
+}
+.content{
+    /* background-image: url("/Images/pawel-czerwinski-HbcfaO4m03s-unsplash.jpg"); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: large;
+    font-weight: 450;
+    margin: 0%;
+    padding: 1%;
+    background-color: #EAF6F6;
+}
+h1{
+    /* text-color: #3FC1C9; */
+    color: #06283D;
+    /* font-size:xx-large; */
+    font-size: 35px;
+    /* font-family:Georgia, 'Times New Roman', Times, serif */
+}
+h3{
+    color: #FC5185;
+    font-size: 20px;
+    font-weight: 500;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 15%;
+}
+.connect{
+    background-color: #FF0063;
+    color: white;
+}
+.certify{
+    border:1px solid black;
+}
+.cloud{
+    border:1px solid black;
+}
+/* .nav{
+    margin: 0%;
+    padding: 0%;
+    margin-left: 0%;
+    margin-right: 70%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-left: 5%;
+    padding-right: 0%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #FF0063;
+    color: white;
+    /* word-spacing: 10%; */
+    /* word-break:inherit */
+
+.navmenu{
+    background-color: #CDF0EA;
+}
+.table{
+    margin: 5%;
+    padding: 0%;
+}
